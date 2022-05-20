@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>firstblog</title>
-    <link href="/2022/05/20/firstblog/"/>
-    <url>/2022/05/20/firstblog/</url>
+    <title>test-blog</title>
+    <link href="/2022/05/20/test-blog/"/>
+    <url>/2022/05/20/test-blog/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这是博客测试</p>]]></content>
     
     
     
